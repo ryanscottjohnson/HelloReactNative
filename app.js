@@ -5,7 +5,7 @@ export default class HelloWorld extends Components {
   render() {
     return (
       <View>
-        <Text>Hello World!</Text>
+        <Text>Greetings Earthling!</Text>
       </View>
     );
   }
