@@ -1,0 +1,27 @@
+{
+  "name": "helloreactnative",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanscottjohnson/HelloReactNative.git"
+  },
+  "author": "Ryan Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanscottjohnson/HelloReactNative/issues"
+  },
+  "homepage": "https://github.com/ryanscottjohnson/HelloReactNative#readme",
+  "dependencies": {
+    "react": "^16.6.0",
+    "react-native": "^0.57.4"
+  },
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-plugin-react": "^7.11.1"
+  }
+}
